@@ -7,7 +7,6 @@ Este proyecto forma parte del trabajo final del curso Econometría II. Extrae co
 Recolectar comentarios de videos de las "mañaneras" de Claudia Sheinbaum para analizarlos posteriormente con herramientas econométricas o de análisis de texto.
 
 ## Estructura del Proyecto
-### Estructura del Proyecto
 
 ```
 claudia-mananeras-comments/
