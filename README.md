@@ -7,16 +7,19 @@ Este proyecto forma parte del trabajo final del curso Econometría II. Extrae co
 Recolectar comentarios de videos de las "mañaneras" de Claudia Sheinbaum para analizarlos posteriormente con herramientas econométricas o de análisis de texto.
 
 ## Estructura del Proyecto
+### Estructura del Proyecto
 
+```
 claudia-mananeras-comments/
 ├── README.md
 ├── .gitignore
-├── .env # No se incluye en GitHub
+├── .env          # No se incluye en GitHub
 ├── requirements.txt
 ├── code/
-│ └── scrape_comments.py
+│   └── scrape_comments.py
 └── data/
-└── dataset.csv # Dataset final con comentarios
+    └── dataset.csv  # Dataset final con comentarios
+```
 
 
 ## Instrucciones
